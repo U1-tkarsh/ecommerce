@@ -37,7 +37,7 @@ const Carousels = ({ slides }) => {
         <br />
       </div>
       <div className="boldest container text-center pt-5 ">
-        <h5 style={{paddingLeft: "24vw"}}>Top Brands on ZET</h5>
+        <h5>Top Brands on ZET</h5>
       </div>
       <div className="container ">
       <p className="text-center container">We are trusted by best brand in the country</p>
